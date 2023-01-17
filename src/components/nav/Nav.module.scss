@@ -1,0 +1,29 @@
+
+.navMainConatiner{
+    background-color:rgb(255,255,255);
+    
+
+}
+
+.navContainerTop{
+    padding: 1rem 0 1rem 15.5rem;
+
+}
+
+.navContainer{
+    display: flex;
+    gap:106.077px;
+    list-style: none;
+    
+   
+}
+
+.navContainer li {
+
+font-size: .875rem;
+letter-spacing: .125rem;
+
+}
+.navContainer li:hover{
+    border-bottom: .125rem solid #da1a32;
+}
